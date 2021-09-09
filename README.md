@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Vera</h1>
-<h3 align="center">A Telematics Engineering student and an AI enthusiast from Madrid, Spain</h3>
-
+<h3 align="center">Telecommunication Engineer and an AI enthusiast from Madrid, Spain</h3>
+<!-- 
 - 🔭 I’m currently working on **a Tweets classifier by topic**
 
-- 🌱 I’m currently learning **about transformers & causal inference**
+- 🌱 I’m currently learning **about transformers & causal inference** -->
 
-- 👨‍💻 All of my projects will be soon available at [https://dveni.github.io/](https://dveni.github.io/)
+- 👨‍💻 Check my personal website [https://dveni.github.io/](https://dveni.github.io/)
 
 - 📫 How to reach me **daveni (at) protonmail (dot) com**
 

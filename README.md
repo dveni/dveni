@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Vera</h1>
 <h3 align="center">Spanish PhD Student doing ML stuff in Zürich</h3>
 
-- 👨‍💻 Check my personal website: [dveni.github.io](https://dveni.github.io/)
+<!-- - 👨‍💻 Check my personal website: [dveni.github.io](https://dveni.github.io/) -->
 
 - 📫 How to reach me **daveni (at) protonmail (dot) com**
 
